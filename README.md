@@ -1,4 +1,4 @@
-# What is an LLM? 🧠
+# What is LLM? 🧠
 A Large Language Model (LLM) is an advanced AI trained on massive amounts of text data to understand and generate human-like text. These models, like Google’s Gemini or OpenAI’s GPT, are capable of performing tasks like answering questions, summarizing text, generating code, and more.
 
 # Benefits of LLMs 💡
